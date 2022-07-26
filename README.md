@@ -1,5 +1,5 @@
 # Loan Default Prediction
-> Group Project | Business Analytics with R 
+> Group Project 
 
 ## Table of Contents
 * [Overview](#Overview)
@@ -7,7 +7,6 @@
 * [Technologies Used](#technologies-used)
 * [Dataset](#Dataset)
 * [Contact](#Contact)
-
 
 ## Overview
 - Built a bad loan model that may be easily understood and utilized by investors to determine whether to finance a new loan for a particular individual. 
